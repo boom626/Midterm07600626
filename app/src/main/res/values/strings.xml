@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Midterm 07600626</string>
+    <string name="username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="login_to_facebook">Login To Facebook</string>
+    <string name="from">From</string>
+    <string name="lives_in">Lives in</string>
+    <string name="view_as">View As</string>
+    <string name="add_to_story">Add to Story</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="more">More</string>
+    <string name="text_Welcome">Welcome</string>
+    <string name="Invalid_username_or_password">Invalid username or password</string>
+    <string name="name_aaa" translatable="false">Tararat choombunchoo</string>
+    <string name="name_bbb" translatable="false">Promlert Lovichito</string>
+    <string name="goes_to">Goes to</string>
+</resources>
