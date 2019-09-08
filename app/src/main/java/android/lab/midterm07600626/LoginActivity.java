@@ -39,6 +39,7 @@ public class LoginActivity extends AppCompatActivity {
                     if(result_user_aaa){
                         Toast.makeText(LoginActivity.this
                                 , R.string.text_Welcome
+                                //"Tararat choombunchoo"
                                 ,Toast.LENGTH_SHORT
                         ).show();
                         Intent intent = new Intent(LoginActivity.this, ProfileActivity.class);
@@ -49,6 +50,7 @@ public class LoginActivity extends AppCompatActivity {
                     if(result_user_bbb){
                     Toast.makeText(LoginActivity.this
                                 , R.string.text_Welcome
+                            //"Promlert Lovichit"
                                 ,Toast.LENGTH_SHORT
                         ).show();
                     Intent intent = new Intent(LoginActivity.this, ProfileActivity.class);
